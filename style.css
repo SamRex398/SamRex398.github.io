@@ -27,6 +27,7 @@ body{
 .search input{
     border: 0;
     outline: 0;
+    width: 88%;
     background: #ebfffc;
     color: #555;
     padding: 10px 25px;
@@ -41,7 +42,7 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 120px;
+    width: 12%;
     height: 50px;
     cursor: pointer;
 }
