@@ -18,6 +18,9 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
+.card title{
+    color:black;
+}
 .search{
     width: 100%;
     display: flex;
